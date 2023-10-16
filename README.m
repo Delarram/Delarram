@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Delaram</h1>
 <h3 align="center">Cross-Platform App Developer | Flutter Enthusiast</h3>
-<img align="right" width="400" alt="coding" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1">
+<img align="right" width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodemyui.com%2Flaptop-design-code-side-side-css%2F&psig=AOvVaw3nRNXPRykvKoaVm3dSq3GY&ust=1697563678388000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj6-KqK-4EDFQAAAAAdAAAAABAR">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delaram&label=Profile%20views&color=0e75b6&style=flat" alt="delaram" /> </p>
 
