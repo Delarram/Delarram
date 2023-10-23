@@ -25,5 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delaram&" alt="delaram" /></p>
 
 <p>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=delaram&](https://media.giphy.com/media/3o7WTAkv7Ze17SWMOQ/giphy.gif)https://media.giphy.com/media/3o7WTAkv7Ze17SWMOQ/giphy.gif">
+  <img width="50%" src="https://media.giphy.com/media/3o7WTAkv7Ze17SWMOQ/giphy.gif">
 </p>
