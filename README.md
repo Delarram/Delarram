@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UI/UX design principle**
 
-- 💬 Ask me about **Dart,Flutter,Flutter Web**
+- 💬 Ask me about **Dart,Flutter,Flutter Web,Flutter desktop**
 
 - 📫 How to reach me **blackpoudel@gmail.com**
 
