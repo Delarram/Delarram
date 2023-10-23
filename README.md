@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delaram</h1>
 <h3 align="center">Cross-Platform App Developer | Flutter Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delaram&label=Profile%30views&color=0e75b6&style=flat" alt="delaram" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=delaram&label=Profile%60views&color=0e75b6&style=flat" alt="delaram" /> </p>
 
 - 🔭 I’m currently working at **Digital-dots**
 
