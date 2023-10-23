@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delaram&show_icons=true&locale=en" alt="delaram" /></p>
 
-<p>
+<p style="display:flex">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delaram&" alt="delaram" />
   <img width="40%" height="200px" src="https://media.giphy.com/media/3o7WTAkv7Ze17SWMOQ/giphy.gif">
 </p>
