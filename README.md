@@ -23,6 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delaram&show_icons=true&locale=en" alt="delaram" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delaram&" alt="delaram" />
   <img align="center" width="40%" height="200px" src="https://media.giphy.com/media/UmQnyx5uLYCubXzYEG/giphy.gif">
 </p>
