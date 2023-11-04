@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Digital-dots**
 
-- 🌱 I’m currently learning **UI/UX design principle**
+- 🌱 I’m currently learning **UI/UX design principle and Rust programming language**
 
 - 💬 Ask me about **Dart,Flutter,Flutter Web,Flutter desktop**
 
