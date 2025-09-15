@@ -60,25 +60,14 @@
 
 <h3 align="center">Featured Work</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/1oJLpej7ZL7J2/giphy.gif" width="60%" alt="flutter work gif">
+  <img src="https://media.giphy.com/media/l0HlPjezJ1kL0rbpK/giphy.gif" width="60%" alt="flutter work gif">
 </p>
 <p align="center">Crafting smooth, responsive apps with pixel-perfect UI & amazing user experience ✨</p>
 
 ---
 
-<h3 align="center">Stats & Contributions</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delaram&show_icons=true&theme=radical" alt="github stats" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBMDp3YFcdH2Toc/giphy.gif" width="50%" alt="AI gif">
-</p>
-<p align="center">Exploring AI-powered tools & contributing to open-source projects that combine **Flutter, Embedded Systems & Rust**! 🤖</p>
-
----
-
 <h3 align="center">Fun Fact</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="40%" alt="fun fact coding gif">
+  <img src="https://media.giphy.com/media/xUPGcg0t6Dl4KQm04k/giphy.gif" width="40%" alt="fun coding gif">
 </p>
 <p align="center">I love combining creativity with code – building apps that look good AND work perfectly!</p>
