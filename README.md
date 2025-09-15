@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Delaram</h1>
-<h3 align="center">Flutter Engineer | UI/UX Designer | Rust Explorer</h3>
+<h3 align="center">Flutter Engineer | UI/UX Designer | Rust & Embedded Systems Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=delaram&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,15 +9,15 @@
 
 ### 🔭 Currently
 - Working at **Nura Next** 🚀 building cutting-edge cross-platform apps  
-- Designing **intuitive UI/UX** for web & mobile applications  
+- Designing **intuitive UI/UX** for mobile & embedded systems  
 - Exploring **Rust** for performance-critical projects  
 
 ### 🌱 Learning
 - Advanced **UI/UX animations & microinteractions**  
-- State-of-the-art **Flutter Web & Desktop** development  
+- **Embedded Systems** development for IoT & hardware integration  
 
 ### 💬 Ask me about
-- **Flutter, Dart, Firebase, Flutter Desktop & Web**  
+- **Flutter, Dart, Firebase, Flutter Desktop & Mobile**  
 - **UI/UX design principles, Figma, Prototyping**  
 
 ### 📫 Contact Me
@@ -69,8 +69,11 @@
 <h3 align="center">Stats & Contributions</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=delaram&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delaram&layout=compact&theme=radical" alt="top languages" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBMDp3YFcdH2Toc/giphy.gif" width="50%" alt="AI gif">
+</p>
+<p align="center">Exploring AI-powered tools & contributing to open-source projects that combine **Flutter, Embedded Systems & Rust**! 🤖</p>
 
 ---
 
